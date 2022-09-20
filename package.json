@@ -1,0 +1,20 @@
+{
+  "name": "@gritwork/swagger-generate-api",
+  "version": "1.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-uglify": "^3.0.2",
+    "axios": "^0.27.2",
+    "change-case": "^4.1.2",
+    "gulp": "^4.0.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.0.0"
+  }
+}
